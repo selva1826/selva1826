@@ -1,9 +1,13 @@
+![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)
 <h1 align="center">Hi 👋, I'm Selvaganapathy RY</h1>
 <h3 align="center">Aspiring Data Analyst | Turning Data into Insights</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selva1826&label=Profile%20views&color=0e75b6&style=flat" alt="selva1826" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selva1826" alt="selva1826" /></a> </p>
+
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f8890b3836e5c774ccf3074efabcd95f31dbce1fcf4e0ed8a696f8b43f959eae/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966">
 
 - 🔭 I’m currently working on **Analysis of Job opportunities on different IT Sectors**
 
@@ -13,13 +17,13 @@
 
 - 🤝 I’m looking for help with **Data Modelling**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/selvaganapathyportfolio](https://sites.google.com/view/selvaganapathyportfolio)
+- 👨‍💻 All of my projects are available at [PortFolio](https://sites.google.com/view/selvaganapathyportfolio)
 
 - 💬 Ask me about **Exploratory Data Analysis, python - Pandas, Numpy, Seaborn, Matplotlib**
 
 - 📫 How to reach me **310622149044@eec.srmrmp.edu.in**
 
-- 📄 Know about my experiences [www.linkedin.com/in/selvaganapathy-ry-827490289](www.linkedin.com/in/selvaganapathy-ry-827490289)
+- 📄 Know about my experiences [Linked-in](www.linkedin.com/in/selvaganapathy-ry-827490289)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
