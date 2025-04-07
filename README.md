@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/ec6e701d5e31850db670217ea82f9f4757ce95be5313b17c3b6f57ea591887d5/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 <h1 align="center">Hi 👋, I'm Selvaganapathy RY</h1>
-<h3 align="center">Aspiring Data Analyst | Turning Data into Insights</h3>
+<h3 align="center">Python Developer and Automation Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selva1826&label=Profile%20views&color=0e75b6&style=flat" alt="selva1826" /> </p>
 
@@ -9,19 +9,19 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f8890b3836e5c774ccf3074efabcd95f31dbce1fcf4e0ed8a696f8b43f959eae/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966">
 
-- 🔭 I’m currently working on **Analysis of Job opportunities on different IT Sectors**
+- 🔭 I’m currently working on automating data workflows and building efficient Python-based tools.**
 
-- 🌱 I’m currently learning **Power BI, Data Tableau**
+- 🌱 I’m currently learning advanced Python concepts, **FastAPI**, and working with **RESTful APIs**
 
-- 👯 I’m looking to collaborate on **Data Analysis projects**
+- .👯 I’m looking to collaborate on Python development projects, especially **backend and automation tools.**
 
-- 🤝 I’m looking for help with **Data Modelling**
+- 🤝 I’m an expert in PyQt5 and Qt Designer, creating **scalable and advanced fully functional desktop applications.*
 
 - 👨‍💻 All of my projects are available at [PortFolio](https://sites.google.com/view/selvaganapathyportfolio)
 
-- 💬 Ask me about **Exploratory Data Analysis, python - Pandas, Numpy, Seaborn, Matplotlib**
+💬 Ask me about Python scripting, **PyQt5 UI development**, **API integration**, or **automation using Python.**
 
-- 📫 How to reach me **310622149044@eec.srmrmp.edu.in**
+- 📫 How to reach me **selvaganapathyryst@gmail.com**
 
 - 📄 Know about my experiences [Linked-in](www.linkedin.com/in/selvaganapathy-ry-827490289)
 
